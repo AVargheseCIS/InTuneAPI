@@ -5,7 +5,7 @@ public class Composer {
     /**Audio input inserted into this composer.**/
     private Microphone audioInput;
 
-    /**Creates a Composer object.**/
+    /**Constructor method for Composer object.**/
     private Composer() {}
 
     /**Converts and writes audioInput into MusicXML.**/

@@ -6,10 +6,12 @@ import java.util.ArrayList;
 public class CompositionActivity {
     /**User list of this composition activity instance.**/
     private ArrayList<String> userList;
+
     /**Composer object of this composition activity instance.**/
     private Composer composer;
 
-    /**Creates a CompositionActivity instance.**/
+    /**Creates a CompositionActivity instance. Hosts composer activity and configures session to record and transcribe
+     * user audio input.**/
     private CompositionActivity() {}
 
     /**Saves the composer's transcribed MusicXML file.**/

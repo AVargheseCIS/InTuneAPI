@@ -13,7 +13,7 @@ public class PracticeActivity {
     /**Creates a PracticeActivity instance.**/
     private PracticeActivity() {}
 
-    /**Records the user's audio input for the practice activity.**/
+    /**Records the user's audio input for the practice activity, tracking errors.**/
     private void streamScore() {}
 
     /**Retrieves a music sheet for practice.**/
