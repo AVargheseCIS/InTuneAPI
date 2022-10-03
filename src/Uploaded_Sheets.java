@@ -1,4 +1,7 @@
-public class Uploaded_Sheets {
+/**
+ * Uploaded_Sheets holds information for database identifiers
+ * and location of sheet music uploaded to the application.
+ */public class Uploaded_Sheets {
     /**
      * Primary key, int identifier of music sheet.
      */

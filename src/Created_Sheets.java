@@ -1,3 +1,7 @@
+/**
+ * Created_Sheets holds information for database identifiers
+ * and location of sheet music created by the application.
+ */
 public class Created_Sheets
 {
     /**
@@ -15,8 +19,8 @@ public class Created_Sheets
      */
     private int id_member;
 
-    public Created_Sheets()
-    {
-
-    }
+    /**
+     * Creates a Created_Sheets database information document.
+     */
+    public Created_Sheets() {}
 }

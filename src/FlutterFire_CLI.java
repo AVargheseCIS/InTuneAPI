@@ -1,15 +1,8 @@
 public class FlutterFire_CLI {
-
-
     /**
-     * Initializes flutterfire connection system.
+     * Initializes Flutterfire connection system.
      */
-    private void flutterfire_configure()
-    {}
+    private void flutterfire_configure() {}
 
-
-
-    public FlutterFire_CLI()
-    {}
-
+    public FlutterFire_CLI() {}
 }
